@@ -60,8 +60,8 @@ Pioneiro em **Engenharia de IA Agêntica**, construindo grafos de conhecimento A
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fmsena1&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub do Filipe" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=fmsena1&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=fmsena1&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub do Filipe" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=fmsena1&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" width="48%" />
 </p>
 
 ---
