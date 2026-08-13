@@ -21,11 +21,14 @@ Pioneiro em **Engenharia de IA Agêntica**, construindo grafos de conhecimento A
 ## 🛠 Tecnologias & Ecossistema
 
 ### **Linguagens & Frameworks Principais**
-![C#](https://img.shields.io/badge/C%23-.NET%208-purple?style=for-the-badge&logo=dotnet)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%23-.NET%208-purple?style=for-the-badge&logo=dotnet" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ### **Arquitetura & Backend**
 - **Padrões:** Clean Architecture, CQRS, Arquitetura Orientada a Eventos (EDA), DDD, BFF, Microfrontends (Single-SPA).
@@ -43,9 +46,10 @@ Pioneiro em **Engenharia de IA Agêntica**, construindo grafos de conhecimento A
 
 ## 🏛️ Projetos em Destaque & Repositórios Públicos
 
-### 🛠️ 1. Backend & Arquitetura (.NET & C#)
+### 🛠️ 1. Backend & Arquitetura (.NET, C# & Go)
 - [journey-api](https://github.com/fmsena1/journey-api) — *API desenvolvida com C# e .NET alinhada a princípios de Clean Architecture e Domain-Driven Design.*
 - [FinancialSystem](https://github.com/fmsena1/FinancialSystem) — *Sistema de gestão financeira com validação de dados e arquitetura de backend modular.*
+- [pg-realtime-cdc](https://github.com/fmsena1/pg-realtime-cdc) — *Projeto de backend em Go implementando Change Data Capture (CDC) em tempo real com banco PostgreSQL.*
 
 ### ☁️ 2. Mensageria & Infraestrutura (Docker & RabbitMQ)
 - [producer-and-consumer-rabbitmq](https://github.com/fmsena1/producer-and-cosumer-rabbitmq) — *Pipeline de mensageria assíncrona orientada a eventos com RabbitMQ, C# e containers Docker.*
